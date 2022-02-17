@@ -8,8 +8,10 @@ SAC is an off-policy actor critic reinforcement learning algorithm based on entr
 #### Performance 
 Tested with PyBullet envs
 
-![cheeetah](./plots/cheetah_sac.png)
-*HalfCheetahBulletEnv*
+|![cheeetah](./plots/cheetah_sac.png)|
+|:--:|
+|*HalfCheetahBulletEnv*|
 
-![pendulum](./plots/pendulum_sac.png)
-*InvertedPendulumBulletEnv*
+|![pendulum](./plots/pendulum_sac.png)|
+|:--:|
+|*InvertedPendulumBulletEnv*|
